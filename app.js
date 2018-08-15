@@ -15,8 +15,7 @@ class User {
       }
     }
 
-  
-    //define any other functions/properties of the class
+   //define any other functions/properties of the class
   
 var Dan = new User("Dan", "Coding Bootcamp", new Date(2018, 22, 7));
 var Shani = new User("Shani", "Coding Evening Course", new Date(2018, 30, 8));
